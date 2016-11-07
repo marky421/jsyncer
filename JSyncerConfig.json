@@ -1,0 +1,13 @@
+{
+	"defaultDestPathRoot": "",
+	"mappings": [
+		{
+			"src": "",
+			"dest": "",
+			"options": {
+				"useDefaultDestPathRoot": false,
+				"useSrcFolderName": false
+			}
+		}
+	]
+}
